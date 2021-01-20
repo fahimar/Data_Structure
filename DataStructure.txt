@@ -1,0 +1,2 @@
+Data Structure Advantages
+Efficient Memory use: With efficient use of data structure memory usage can be optimized, for e.g we can use linked list vs arrays when we are not sure about the size of data. When there is no more use of memory, it can be released.

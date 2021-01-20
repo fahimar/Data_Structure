@@ -1,3 +1,4 @@
+// this how recursive work....
 #include<stdio.h>
 
 void recurprint(int n)
@@ -10,9 +11,9 @@ void recurprint(int n)
         return;
     }
 
-
+    recurprint(n-1);
     printf("%d\n",n);
-recurprint(n-1);
+    //recurprint(n-1);
 
 }
 

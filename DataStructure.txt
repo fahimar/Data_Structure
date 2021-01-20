@@ -4,3 +4,7 @@ Data Structure can be defined as the collection of data objects which provides a
 
 
 Efficient Memory use: With efficient use of data structure memory usage can be optimized, for e.g we can use linked list vs arrays when we are not sure about the size of data. When there is no more use of memory, it can be released.
+
+Data Structures are the key part of many computer algorithms as they allow the programmers to do data management in an efficient way. A right selection of data structure can enhance the efficiency of computer program or algorithm in a better way.
+
+Uploading..

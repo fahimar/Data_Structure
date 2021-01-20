@@ -1,6 +1,6 @@
 Data Structure Advantages
 
-// I want to try fetch on git
+// I want to try fetch on git //
 
 Data Structure can be defined as the collection of data objects which provides a way of storing and managing data in the computer so that it can be used. Various Data Structures types are arrays, Linked List, Stack, Queue, etc. Data Structures are widely used in almost every aspect of Computer Science for simple as well as complex computations. Data structures are used in all areas of computer science such as Artificial Intelligence, graphics, Operating system etc.
 
